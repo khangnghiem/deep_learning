@@ -1,0 +1,12 @@
+numpy
+polars
+# torch # install via pip
+# torchvision
+# torchaudio
+transformers
+scipy
+pandas
+matplotlib
+seaborn             
+altair
+scikit-learn
