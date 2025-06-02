@@ -11,3 +11,4 @@ seaborn
 altair
 scikit-learn
 ipykernel
+python-dotenv
